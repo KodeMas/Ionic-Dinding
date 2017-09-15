@@ -1,5 +1,7 @@
 <<<<<<< HEAD
-# The Ionic Super Starter ðŸŽ®
+# The Ionic Super Starter ðŸŽ
+
+Implementing by me®
 
 _Note: the Ionic Super Starter requires Ionic CLI 3._
 
